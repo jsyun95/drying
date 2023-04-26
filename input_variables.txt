@@ -1,0 +1,9 @@
+% ----------------- Process conditions -----------------
+% h0: Initial wet film thickness (micrometer)
+% a: Particle radius (micrometer)
+% T: Process temperature (K) 
+% mu0: Dynamic viscosity of the solvent (Pa*s)
+% phi0: Initial concentration of the particle (0.01~0.4)
+
+ h0,   a,     T,     mu0,    phi0
+100,   1,    300,   0.001,    0.1
